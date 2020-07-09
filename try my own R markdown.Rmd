@@ -1,0 +1,27 @@
+---
+title: "second try"
+author: "Me"
+date: "09/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Chapter 1 introduction
+This chapter is to introduce
+
+## section 1
+```{r}
+summary(cars)
+```
+
+### section 1.1
+```{r}
+print("hello, world")
+```
+- *bullets*  
+- [links] (https://www.coursera.org/learn/data-scientists-tools/lecture/134kE/r-markdown)  
+- **love**  
+
